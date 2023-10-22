@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThapaswiniKonka
-- 👀 I’m interested in learning new things
+- 👀 I’m interested in Exploring new things
 - 🌱 I’m currently learning Python...
 - I am a student pursuing b.tech finalyear
 - 📫 to contact me at thapaswinikonka@gmail.com
